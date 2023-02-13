@@ -6,7 +6,7 @@ This is a project related doc
 
 ## Purpose
 
-Simply
+Simply created something to enhance doc presentation
 ## Deployment
 
  Is done by following the process
