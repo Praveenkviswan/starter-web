@@ -13,3 +13,7 @@ Simply created something to enhance doc presentation
 ## How to contribute
 
 By using the system
+
+##copyright
+
+copy
