@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Praveen K praveenkviswan@gmail.com
 
 # THANKS
 
