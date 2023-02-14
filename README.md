@@ -12,7 +12,7 @@ Simply created something to enhance doc presentation
  Is done by following the process
 ## How to contribute
 
-By using the system
+Please fork this repo and issue pull request
 
 ##copyright
 
