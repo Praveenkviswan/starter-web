@@ -16,4 +16,4 @@ Please fork this repo and issue pull request
 
 ##copyright
 
-copy
+Added copy right 
