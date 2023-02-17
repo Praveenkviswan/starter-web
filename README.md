@@ -2,6 +2,8 @@
 
 Adding a line here for rebasing , then more changes from my feature branch too Emergency fix
 
+Adding latest release version tag
+
 ## Introduction
 
 This is a project related doc, and is simple add
