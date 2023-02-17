@@ -18,4 +18,4 @@ Please fork this repo and issue pull requests for review
 
 ##copyright
 
-Added copy right 
+Added copy right. All rights reserved
